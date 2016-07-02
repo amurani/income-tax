@@ -12,6 +12,15 @@ It has the following goals:
 * Compatible with the [money gem](http://rubymoney.github.io/money/).
 * Full test coverage.
 
+## Installation
+Add this to your Gemfile then run `bundle install`
+
+`gem 'income-tax', '~> 0.1.0'`
+
+or from your terminal run
+
+`gem install income-tax -v 0.1.0`
+
 ## Usage
 
 ``` ruby
